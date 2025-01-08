@@ -124,11 +124,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 
 ---
+![Capture1](https://github.com/user-attachments/assets/b83510c8-b4fa-493b-95b5-6a7d36c7df5b)
 
-!(Capture1)[https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture1.png]
+!(Capture2)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture2.png)
 
-!(Capture2)[https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture2.png]
+!(Capture3)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture3.png)
 
-!(Capture3)[https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture3.png]
-
-!(Capture4)[https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture4.png]
+!(Capture4)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture4.png)
