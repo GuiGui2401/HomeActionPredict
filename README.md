@@ -8,11 +8,11 @@ HomeActionPredict is a web application that uses sensor data to predict actions 
 
 ### Python Installation
 
-The project requires **Python 9.0.4**. Please follow the instructions below to download and install Python, ensuring it is added to your PATH.
+The project requires **Python 3.9.0**. Please follow the instructions below to download and install Python, ensuring it is added to your PATH.
 
-#### Download Python 9.0.4
+#### Download Python 3.9.0
 
-- [Download Python 9.0.4](https://www.python.org/downloads/)
+- [Download Python 3.9.0](https://www.python.org/downloads/)
 
 #### Windows Installation
 
@@ -28,7 +28,7 @@ The project requires **Python 9.0.4**. Please follow the instructions below to d
 1. Open the terminal and run:
    ```bash
    sudo apt update
-   sudo apt install python9.0.4
+   sudo apt install python3.9.0
    ```
 2. Verify the installation by running the following:
    ```bash
@@ -79,7 +79,7 @@ cd HomeActionPredict
 Install the required dependencies using `requirements.txt`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requiments.txt
 ```
 
 ### Step 4: Run the Application
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 Start the application with Streamlit:
 
 ```bash
-streamlit run app.py
+streamlit run test2stream.py
 ```
 
 ---

@@ -130,7 +130,6 @@ python-dateutil==2.9.0.post0
 python-engineio==4.11.1
 python-socketio==5.12.0
 pytz==2024.2
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
 rai_core_flask==0.7.6
