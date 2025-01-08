@@ -126,8 +126,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ![Capture1](https://github.com/user-attachments/assets/b83510c8-b4fa-493b-95b5-6a7d36c7df5b)
 
-!(Capture2)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture2.png)
+![Capture2](https://github.com/user-attachments/assets/7401ee57-7667-48b3-a9ca-ab19a653a67c)
 
-!(Capture3)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture3.png)
+![Capture3](https://github.com/user-attachments/assets/0b8758c2-7ef5-4b97-ba32-ab693993ffef)
 
-!(Capture4)(https://github.com/GuiGui2401/HomeActionPredict/blob/main/captures/Capture4.png)
+![Capture4](https://github.com/user-attachments/assets/31e21f79-35d2-4cbb-a388-4ca184cc9c44)
+
