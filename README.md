@@ -79,7 +79,7 @@ cd HomeActionPredict
 Install the required dependencies using `requirements.txt`:
 
 ```bash
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
 
 ### Step 4: Run the Application
